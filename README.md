@@ -1,4 +1,8 @@
-# hello-clojure
+<p align="center">
+    <img src="https://clojurescript.org/images/cljs-logo-60b.png" alt="ClojureScript logo" /> 
+</p>
+
+<h1 align="center">hello, clojure!</h1>
 
 FIXME: Write a one-line description of your library/project.
 
